@@ -1,6 +1,6 @@
 #Working with goroutines
 
-This repository contains some example code for a blog post that can be found [here](nilpath.se/working-with-goroutines/)
+This repository contains some example code for a blog post that can be found [here](http://nilpath.se/working-with-goroutines/)
 
 #up and running
 
